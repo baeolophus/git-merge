@@ -1,2 +1,2 @@
 # git merge test document
-# these are the lines that exist before we make a merge conflict
+# i have a grand coding plan that I am writing here after I set up my new laptop!
