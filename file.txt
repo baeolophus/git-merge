@@ -1,2 +1,3 @@
 # git merge test document
-# i have a grand coding plan that I am writing here after I set up my new laptop!
+# I forgot my laptop at home, created a merge conflict by editing both online and on my new laptop.
+
